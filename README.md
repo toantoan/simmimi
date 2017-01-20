@@ -1,0 +1,2 @@
+# simmimi
+simple ai
